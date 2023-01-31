@@ -2,6 +2,10 @@
 It's a Ott platform. inspired by Netflix.
 
 
+
+https://user-images.githubusercontent.com/107460745/215718178-e64a7940-8a06-4d94-be2d-9ed462cd4ed4.mp4
+
+
 ![Screenshot 2023-01-31 134828](https://user-images.githubusercontent.com/107460745/215716768-a93b6874-96a8-45d7-9af2-aaaa69890d77.png)
 ![Screenshot 2023-01-31 134925](https://user-images.githubusercontent.com/107460745/215716773-b88b4960-6fde-4b5a-bd5d-1c69f1a4ca72.png)
 ![Screenshot 2023-01-31 135022](https://user-images.githubusercontent.com/107460745/215716776-1e13d9e7-e615-4a74-9469-0a64745a3106.png)
